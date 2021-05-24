@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbc73f7b-7e11-4b3f-a4e3-e3e6e1ab85be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sxeaI3Q29ajro5mrVywOgudOn0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../Users/TEMP/AndroidSdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IN0-BETAGO/rdstest" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbc73f7b-7e11-4b3f-a4e3-e3e6e1ab85be" name="Default Changelist" comment="" />
+      <created>1621818729502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621818729502</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="458" key="FileChooserDialogImpl" timestamp="1621818768487">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="420" y="458" key="FileChooserDialogImpl/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621818768487" />
+  </component>
+</project>
