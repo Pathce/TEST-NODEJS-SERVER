@@ -41,8 +41,9 @@ app.post('/test/in0', function(req, res){
 			Evaluation: element.Evaluation
 		
 		}));
-		console.log(result);
 		res.send(result);
+		console.log("res send Success");
+		console.log("_______________________________");
 
 	});
 });
