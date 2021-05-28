@@ -14,7 +14,7 @@ var connection = mysql.createConnection({
 	host: "in0betago-db.ckg0r7mhy4j7.ap-northeast-2.rds.amazonaws.com",
 	user: "IN0BETAGO",
 	database: "IN0BETAGO_DB",
-	password: "akgndbd4656!!",
+	password: "비밀번호 입력",
 	port: 3306
 });
 
